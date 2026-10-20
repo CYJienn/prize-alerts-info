@@ -1,3 +1,8 @@
+---
+layout: default
+title: Privacy
+---
+
 # Privacy policy
 
 Last updated: 21 October 2026
