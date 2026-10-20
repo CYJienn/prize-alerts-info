@@ -1,3 +1,8 @@
+---
+layout: default
+title: Terms
+---
+
 # Terms of use
 
 Last updated: 21 October 2026
@@ -8,4 +13,4 @@ Keyword matching and link extraction can miss information or include irrelevant 
 
 The owner may disable the automation and revoke authorization at any time. The tool does not enter competitions or submit information on the owner's behalf.
 
-[Privacy policy](privacy.md)
+[Privacy policy](privacy.html)
